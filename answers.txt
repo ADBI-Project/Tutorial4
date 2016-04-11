@@ -1,0 +1,7 @@
+1.
+  a. rank is 1
+  b. rank is 2
+  c. rank is 3
+
+2.
+  B = [None, 1]
